@@ -50,10 +50,12 @@ cd tiendamoda-registro
 ## 📸 Capturas de Pantalla
 
 ### Modo Claro
-![Modo Claro](ruta-a-tu-imagen-modo-claro.png)
+![Captura de pantalla_21-10-2024_20828_127 0 0 1](https://github.com/user-attachments/assets/1e9599db-424a-435d-b606-3254813e4d60)
+
 
 ### Modo Oscuro
-![Modo Oscuro](ruta-a-tu-imagen-modo-oscuro.png)
+![Captura de pantalla_21-10-2024_20854_127 0 0 1](https://github.com/user-attachments/assets/fa478a1f-94c0-4153-a2a5-f6d1c66d7f51)
+
 
 ## 📁 Estructura del Proyecto
 
